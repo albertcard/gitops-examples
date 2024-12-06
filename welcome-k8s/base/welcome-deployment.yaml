@@ -16,6 +16,6 @@ spec:
         app: welcome-php
     spec:
       containers:
-      - image: quay.io/redhatworkshops/welcome-app
+      - image: quay.io/redhatworkshops/upload
         name: welcome-php
         resources: {}
